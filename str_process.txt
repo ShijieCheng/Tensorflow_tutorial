@@ -1,0 +1,1 @@
+Resort Hotel,\t0,342,2015,July,27\t,1,0,0,2,0,0,BB,\tPRT,Direct,Direct,0,0,0,C,C,3,\tNo Deposit,NULL,\tNULL,0,Transient,\t0,0,0,\tCheck-Out,2015-07-01
